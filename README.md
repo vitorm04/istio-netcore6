@@ -35,3 +35,6 @@ cd ./kubernetes/
 kubectl apply -f .\deploy-consumer.yml
 kubectl apply -f .\deploy-server.yml
 ```
+
+
+![image](https://user-images.githubusercontent.com/24477296/172265277-aaae8e9c-93b1-43b0-ac62-c3ea447c9fc4.png)
